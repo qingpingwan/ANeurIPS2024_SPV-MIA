@@ -1,4 +1,4 @@
-# Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration
+# (NeurIPS'24) Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration
 
 - [Requirements](#requirements)
 - [Target Model Fine-tuning](#target-model-fine-tuning)
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Please replace \*pretrained_model_name\* and \*dataset_name\* with the names of pretrained LLM and training dataset, such as `decapoda-research/llama-7b-hf` and `ag_news`.
 
 ### Recommended pretrained models
-- GPT-2 (https://huggingface.co/gpt2)
+- GPT-2 (1.5B) (https://huggingface.co/gpt2-xl)
 - GPT-J (https://huggingface.co/EleutherAI/gpt-j-6b)
 - Falcon (https://huggingface.co/tiiuae/falcon-7b)
 - LLaMA (https://huggingface.co/decapoda-research/llama-7b-hf) [^1]
