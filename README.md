@@ -5,8 +5,11 @@
 - [Self-prompt Reference Model Fine-tuning](#self-prompt-reference-model-fine-tuning)
 - [Run SPV-MIA](#run-spv-mia)
 
-This is the official implementation of the paper "Practical Membership Inference Attacks against Fine-tuned 
-Large Language Models via Self-prompt Calibration".
+This is the official implementation of the paper 
+
+"Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration".
+
+
 The proposed Membership Inference Attack based on Self-calibrated Probabilistic Variation (SPV-MIA) is implemented as follows.
 
 ![The overall architecture of _SPV-MIA_](./Framework.png)
